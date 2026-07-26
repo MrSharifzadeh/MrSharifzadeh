@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=MrSharifzadeh&label=Profile%20Views&color=0e75b6&style=flat)
+
 <h1 align="center">Hi 👋, I'm Mr. Sharif</h1>
 <h3 align="center">Full-Stack Developer | 3 Years of Experience | Transforming complex ideas into scalable products</h3>
 
