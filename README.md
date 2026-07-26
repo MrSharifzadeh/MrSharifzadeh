@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack Developer | 3 Years of Experience | Transforming complex ideas into scalable products</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrSharifzadeh&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
+</p>
+
+<p align="center">
   <a href="https://mrsharifzadeh.github.io/mrsharif-website/">
     <img alt="Website" src="https://img.shields.io/badge/Website-Visit_My_Site-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -41,6 +45,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSharifzadeh&show_icons=true&theme=tokyonight" alt="Mr. Sharif's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSharifzadeh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/MrSharifzadeh">
+    <img src="https://github-readme-stats.vercel.app/api?username=MrSharifzadeh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/MrSharifzadeh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSharifzadeh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
