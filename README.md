@@ -19,6 +19,15 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mr_Sharif_code)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shryfzadhmjtby383@gmail.com)
 
+
+### 👨‍💻 About Me
+- 💻 I am a **Full-Stack Developer** with **3 years** of professional experience.
+- 🌍 My focus is on building advanced e-commerce platforms, corporate websites, and startup MVPs.
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrSharifzadeh&show_icons=true&theme=radical&hide_border=true)
+
+
 ---
 
 ### 👨‍💻 About Me
