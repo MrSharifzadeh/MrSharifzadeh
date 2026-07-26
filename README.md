@@ -52,3 +52,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSharifzadeh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
+
+
+### 🚀 Current Focus
+I am currently planning and designing a **modern corporate and advertising web platform** featuring a sleek black and gold color theme. Stay tuned for updates!
