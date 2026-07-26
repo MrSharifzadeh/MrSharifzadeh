@@ -38,14 +38,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrSharifzadeh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSharifzadeh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 🚀 Current Focus
 I am currently planning and designing a **modern corporate and advertising web platform** featuring a sleek black and gold color theme. Stay tuned for updates!
