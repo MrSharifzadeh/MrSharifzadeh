@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mr. Sharif</h1>
-<h3 align="center">Full-Stack Developer | Transforming complex ideas into scalable products</h3>
+<h3 align="center">Full-Stack Developer | 3 Years of Experience | Transforming complex ideas into scalable products</h3>
 
 <p align="center">
-  <a href="https://mrsharif.dev">
-    <img alt="Website" src="https://img.shields.io/badge/Website-mrsharif.dev-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://mrsharifzadeh.github.io/mrsharif-website/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-Visit_My_Site-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:info@mrsharif.dev">
-    <img alt="Email" src="https://img.shields.io/badge/Email-info@mrsharif.dev-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:shryfzadhmjtby383@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -41,6 +41,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr.Sharifzadeh&show_icons=true&theme=tokyonight" alt="Mr. Sharif's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr.Sharifzadeh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrSharifzadeh&show_icons=true&theme=tokyonight" alt="Mr. Sharif's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSharifzadeh&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
